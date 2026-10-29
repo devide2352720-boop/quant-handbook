@@ -1,0 +1,1 @@
+const e={securityLevel:"loose",startOnLoad:!1,theme:"base",themeVariables:{primaryColor:"#eaf2ff",primaryTextColor:"#182337",primaryBorderColor:"#2f80ed",lineColor:"#61748f",secondaryColor:"#e7f7f4",tertiaryColor:"#f3f6fb",fontFamily:"IBM Plex Sans, Noto Sans SC, sans-serif"},flowchart:{useMaxWidth:!1},sequence:{useMaxWidth:!1},timeline:{useMaxWidth:!1}};export{e as default};
